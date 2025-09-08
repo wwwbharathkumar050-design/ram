@@ -1,0 +1,3 @@
+Name:R.Bharath
+Course:BSC-CS
+How to create files and how to upload in github
